@@ -1,0 +1,101 @@
+id,type,site,checkOutDate,expectedReturn,status,engineHours,idleHours,operator
+EQX1001,Crane,Site A,1/12/2024,1/20/2024,Under Maintenance,15.8,7.4,OP001
+EQX1002,Bulldozer,Site A,3/9/2024,4/6/2024,Under Maintenance,31.2,9.3,OP003
+EQX1003,Bulldozer,Site A,1/29/2024,2/20/2024,Rented,6.1,2.8,OP003
+EQX1004,Crane,Site B,1/22/2024,2/12/2024,Under Maintenance,43,2.5,OP003
+EQX1005,Excavator,Site B,3/29/2024,4/25/2024,Available,21.4,9.5,OP001
+EQX1006,Crane,Site A,2/3/2024,2/28/2024,Available,44.4,0.3,OP005
+EQX1007,Loader,Site D,2/5/2024,3/5/2024,Rented,42.9,7.5,OP002
+EQX1008,Loader,Site C,1/21/2024,2/17/2024,Available,18,3.3,OP005
+EQX1009,Loader,Site B,2/24/2024,3/18/2024,Rented,23.3,2.8,OP005
+EQX1010,Excavator,Site A,1/31/2024,2/6/2024,Under Maintenance,40.2,1.7,OP002
+EQX1011,Loader,Site B,1/19/2024,1/30/2024,Rented,26.2,3,OP003
+EQX1012,Dump Truck,Site B,3/28/2024,4/24/2024,Under Maintenance,38.5,5.5,OP004
+EQX1013,Loader,Site A,1/17/2024,2/7/2024,Under Maintenance,29.9,7,OP002
+EQX1014,Loader,Site B,2/11/2024,3/1/2024,Under Maintenance,47.9,7,OP001
+EQX1015,Bulldozer,Site A,1/25/2024,2/2/2024,Available,43.2,3,OP001
+EQX1016,Crane,Site B,2/17/2024,3/2/2024,Available,14.5,2.1,OP001
+EQX1017,Dump Truck,Site C,3/19/2024,4/15/2024,Under Maintenance,12,6.7,OP001
+EQX1018,Loader,Site A,1/16/2024,2/6/2024,Rented,29.6,0.9,OP002
+EQX1019,Loader,Site B,3/29/2024,4/18/2024,Under Maintenance,45.8,0.7,OP003
+EQX1020,Crane,Site D,3/31/2024,4/19/2024,Rented,15.1,1.9,OP004
+EQX1021,Excavator,Site A,2/4/2024,2/11/2024,Available,34.3,9,OP001
+EQX1022,Crane,Site A,1/30/2024,2/15/2024,Rented,41.1,8.5,OP002
+EQX1023,Bulldozer,Site D,1/9/2024,1/16/2024,Rented,36.7,8.5,OP004
+EQX1024,Loader,Site B,3/4/2024,3/27/2024,Rented,18.6,3.2,OP003
+EQX1025,Loader,Site C,1/29/2024,2/12/2024,Rented,5.3,9,OP005
+EQX1026,Excavator,Site C,2/15/2024,2/24/2024,Available,48.5,9.8,OP001
+EQX1027,Crane,Site C,2/14/2024,3/15/2024,Rented,18.9,2,OP001
+EQX1028,Crane,Site B,3/28/2024,4/16/2024,Available,18.9,0.5,OP001
+EQX1029,Crane,Site D,1/29/2024,2/13/2024,Available,21,0.9,OP003
+EQX1030,Excavator,Site A,1/25/2024,2/19/2024,Under Maintenance,18.6,7.6,OP005
+EQX1031,Loader,Site D,1/17/2024,1/26/2024,Rented,20.1,8,OP004
+EQX1032,Dump Truck,Site A,3/18/2024,4/6/2024,Rented,49.4,4.7,OP001
+EQX1033,Excavator,Site D,2/5/2024,3/4/2024,Under Maintenance,16.5,6.9,OP003
+EQX1034,Excavator,Site C,1/21/2024,2/7/2024,Under Maintenance,38.2,7.1,OP004
+EQX1035,Crane,Site B,1/30/2024,2/26/2024,Available,43.9,5.4,OP005
+EQX1036,Dump Truck,Site C,3/24/2024,4/16/2024,Available,30.6,3.6,OP003
+EQX1037,Dump Truck,Site C,1/27/2024,2/14/2024,Under Maintenance,49.3,8.9,OP002
+EQX1038,Crane,Site C,1/27/2024,2/18/2024,Available,28.8,8.6,OP003
+EQX1039,Dump Truck,Site C,3/15/2024,4/14/2024,Rented,28,6.2,OP001
+EQX1040,Bulldozer,Site A,3/15/2024,3/21/2024,Available,22.1,4.7,OP004
+EQX1041,Excavator,Site D,1/9/2024,2/3/2024,Under Maintenance,41,0,OP005
+EQX1042,Loader,Site C,3/20/2024,3/28/2024,Rented,23.9,0.1,OP002
+EQX1043,Bulldozer,Site D,3/5/2024,3/27/2024,Rented,33,7.9,OP005
+EQX1044,Bulldozer,Site A,1/11/2024,2/3/2024,Available,30.1,8.5,OP004
+EQX1045,Crane,Site D,1/20/2024,1/30/2024,Rented,29.3,7.3,OP004
+EQX1046,Dump Truck,Site D,3/14/2024,4/1/2024,Available,46.3,8.5,OP004
+EQX1047,Crane,Site C,2/29/2024,3/15/2024,Under Maintenance,48.1,9.3,OP001
+EQX1048,Crane,Site B,1/2/2024,1/27/2024,Under Maintenance,49,3.1,OP004
+EQX1049,Crane,Site D,2/27/2024,3/14/2024,Under Maintenance,16.9,0.9,OP003
+EQX1050,Dump Truck,Site D,1/18/2024,2/12/2024,Under Maintenance,28.3,1.4,OP003
+EQX1051,Crane,Site C,2/16/2024,3/14/2024,Under Maintenance,8.1,1.8,OP005
+EQX1052,Bulldozer,Site C,1/5/2024,1/13/2024,Rented,42.6,7.9,OP005
+EQX1053,Bulldozer,Site C,2/11/2024,2/27/2024,Under Maintenance,21.3,7.5,OP005
+EQX1054,Loader,Site B,2/9/2024,2/14/2024,Available,15.1,4,OP003
+EQX1055,Bulldozer,Site D,3/18/2024,3/25/2024,Rented,34.4,7.3,OP001
+EQX1056,Loader,Site B,2/24/2024,3/6/2024,Rented,23.3,4.2,OP002
+EQX1057,Crane,Site C,1/18/2024,1/25/2024,Under Maintenance,24.4,4.5,OP003
+EQX1058,Loader,Site B,1/26/2024,2/3/2024,Rented,12.3,9.2,OP003
+EQX1059,Excavator,Site A,1/8/2024,1/21/2024,Available,49.7,3.9,OP005
+EQX1060,Bulldozer,Site D,3/26/2024,4/7/2024,Under Maintenance,10.2,3.6,OP004
+EQX1061,Loader,Site B,2/22/2024,3/22/2024,Under Maintenance,45.3,0.3,OP005
+EQX1062,Crane,Site B,1/29/2024,2/24/2024,Rented,35.8,7.6,OP004
+EQX1063,Excavator,Site D,1/22/2024,2/1/2024,Available,9.4,2.2,OP001
+EQX1064,Dump Truck,Site B,1/3/2024,1/9/2024,Available,13.8,9.9,OP002
+EQX1065,Excavator,Site A,3/21/2024,4/5/2024,Rented,43.9,5.1,OP001
+EQX1066,Bulldozer,Site C,3/18/2024,4/14/2024,Rented,25.7,5.2,OP005
+EQX1067,Dump Truck,Site D,2/26/2024,3/3/2024,Rented,5.4,5.2,OP004
+EQX1068,Crane,Site B,2/19/2024,3/4/2024,Under Maintenance,5.6,6,OP001
+EQX1069,Crane,Site D,2/19/2024,3/19/2024,Available,34.2,4,OP002
+EQX1070,Loader,Site D,2/23/2024,3/24/2024,Available,33.1,1,OP002
+EQX1071,Loader,Site A,3/11/2024,3/17/2024,Available,19.2,6.6,OP002
+EQX1072,Crane,Site D,2/1/2024,2/25/2024,Under Maintenance,36.2,9.2,OP002
+EQX1073,Dump Truck,Site D,2/16/2024,3/17/2024,Under Maintenance,14.7,3.7,OP002
+EQX1074,Excavator,Site C,1/9/2024,1/21/2024,Rented,9,7.1,OP005
+EQX1075,Excavator,Site C,3/22/2024,4/19/2024,Rented,16.9,8.6,OP004
+EQX1076,Loader,Site A,2/27/2024,3/17/2024,Under Maintenance,6.8,8.8,OP002
+EQX1077,Bulldozer,Site B,1/29/2024,2/3/2024,Under Maintenance,25.6,0.5,OP002
+EQX1078,Crane,Site B,2/28/2024,3/4/2024,Available,39.9,7.4,OP003
+EQX1079,Excavator,Site B,1/23/2024,2/2/2024,Rented,28.5,3.3,OP001
+EQX1080,Loader,Site A,1/30/2024,2/10/2024,Rented,31.2,7.2,OP001
+EQX1081,Bulldozer,Site B,1/6/2024,2/1/2024,Available,7.7,1.8,OP005
+EQX1082,Bulldozer,Site D,1/18/2024,2/17/2024,Under Maintenance,5,2,OP001
+EQX1083,Excavator,Site A,1/6/2024,1/27/2024,Rented,40.8,6.9,OP004
+EQX1084,Bulldozer,Site A,3/14/2024,3/28/2024,Under Maintenance,13.1,2.6,OP005
+EQX1085,Loader,Site D,3/6/2024,3/23/2024,Available,8.3,4.3,OP001
+EQX1086,Bulldozer,Site D,3/8/2024,3/16/2024,Available,18.2,0.3,OP003
+EQX1087,Dump Truck,Site C,1/26/2024,2/16/2024,Rented,12,3,OP005
+EQX1088,Loader,Site B,1/17/2024,2/7/2024,Rented,15.6,2.1,OP004
+EQX1089,Excavator,Site D,2/15/2024,2/29/2024,Available,29.4,3.9,OP005
+EQX1090,Loader,Site D,1/24/2024,2/10/2024,Rented,21.6,7.3,OP005
+EQX1091,Crane,Site A,2/10/2024,2/25/2024,Available,22.6,1.9,OP004
+EQX1092,Dump Truck,Site D,2/12/2024,2/19/2024,Rented,37,4.5,OP004
+EQX1093,Loader,Site D,2/17/2024,3/3/2024,Available,34.2,6.1,OP002
+EQX1094,Loader,Site C,3/9/2024,4/8/2024,Available,16.7,3.3,OP001
+EQX1095,Dump Truck,Site D,3/29/2024,4/27/2024,Rented,7.6,7.9,OP002
+EQX1096,Crane,Site B,3/8/2024,3/17/2024,Available,28,7.8,OP005
+EQX1097,Excavator,Site B,1/1/2024,1/25/2024,Rented,19.7,6.6,OP005
+EQX1098,Dump Truck,Site D,2/28/2024,3/5/2024,Available,35,6.8,OP003
+EQX1099,Loader,Site C,1/9/2024,1/15/2024,Under Maintenance,33.9,4.6,OP005
+EQX1100,Bulldozer,Site B,1/3/2024,1/24/2024,Available,29.3,3.1,OP003
